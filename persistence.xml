@@ -21,6 +21,7 @@
 	</properties> <!--for load init scripts-->
 	
 	<!-- Hibernate properties -->
+	<properties>
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.format_sql" value="true" />
 			<property name="hibernate.dialect"
